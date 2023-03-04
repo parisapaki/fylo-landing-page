@@ -1,0 +1,47 @@
+@font-face{
+    font-family: 'Raleway';
+    src: url('Raleway-VariableFont_wght.ttf') format('woff');
+    url('Font_File.ttf') format('ttf');
+}
+
+.font1 {
+    font-family:Raleway;
+}
+
+@font-face{
+    font-family: 'openSans';
+    src: url('OpenSans-VariableFont_wdth,wght.ttf') format('woff');
+    url('Font_File.ttf') format('ttf');
+}
+
+.font2 {
+    font-family:openSans;
+}
+.fsize {
+    font-size: 13px;
+
+}
+ .bg-col {
+    background-color: #f9f8fe;
+ }
+ .fonts {
+    font-size: 13px;
+ }
+ .imgpro {
+    border-radius: 50%;
+ }
+ .bg-col2 {
+    background-color: hsl(238, 22%, 44%);
+ }
+ .bgcol {
+    background-color: hsl(243, 87%, 12%);
+ }
+
+.borderic {
+   border-radius: 50%;
+   padding: 7px;
+}
+
+.style1 {
+   color: white;
+}
